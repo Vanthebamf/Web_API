@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LyCgjKPv78xF9Ybn5KJQhuX5eogl3MeHNPzXgoAXuqNxX2vhVPTVCH6OPQ/KtsAkbCTSbK+ZOTBsD+wGB3z/2Q==",
+  "dgSpecHash": "S/S0DlcI+dbZJCETRfHETvHNzjHdreIwNW6EpS5YXTulTF6IIC6cSduE2Tv0GkZL65mw/4dleodsYDHIQFi8wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vanng\\source\\repos\\IntroSite\\IntroSite.csproj",
+  "projectFilePath": "C:\\Users\\vanng\\source\\repos\\Web_API\\IntroSite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

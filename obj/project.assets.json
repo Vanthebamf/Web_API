@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanng\\source\\repos\\IntroSite\\IntroSite.csproj",
+      "projectUniqueName": "C:\\Users\\vanng\\source\\repos\\Web_API\\IntroSite.csproj",
       "projectName": "IntroSite",
-      "projectPath": "C:\\Users\\vanng\\source\\repos\\IntroSite\\IntroSite.csproj",
+      "projectPath": "C:\\Users\\vanng\\source\\repos\\Web_API\\IntroSite.csproj",
       "packagesPath": "C:\\Users\\vanng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vanng\\source\\repos\\IntroSite\\obj\\",
+      "outputPath": "C:\\Users\\vanng\\source\\repos\\Web_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanng\\AppData\\Roaming\\NuGet\\NuGet.Config",
